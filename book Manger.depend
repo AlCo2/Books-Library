@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671847394 source:e:\c++\book manger\main.cpp
+	<iostream>
+	"book.h"
+	<iomanip>
+
+1671846621 e:\c++\book manger\book.h
+	<fstream>
+	<iomanip>
+
