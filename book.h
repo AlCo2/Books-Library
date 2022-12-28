@@ -45,7 +45,7 @@ public:
         file.close();
     }
     void introBook(){
-        cout << name << setw(8) << "|"<< setw(8)<< author << setw(8) << "|"<< setw(8) << prix <<"  |"<< endl;
+        cout <<name << setw(30)<<author << setw(30) <<prix<<"$" << endl;
     }
     void editBook(string name, string author, int prix){
         this->name = name;
